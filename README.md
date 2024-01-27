@@ -8,7 +8,7 @@ Game Devloper
 *   🖥️  See my portfolio at [Work In Progress Portfolio](http:///notfennecks.wixsite.com/dylansantiago)
 *   ✉️  You can contact me at [notfennecks@gmail.com](mailto:notfennecks@gmail.com)
 *   🧠  I'm learning Advanced C++ and Unreal Engine 5
-*   📄  Resume here
+*   📄  Resume [sitname](https://github.com/notfennecks/notfennecks/blob/7453358539e37f9a45c367a3ab9307dd5c234557/Resume.pdf)
 *   ⚡  I love survival games.
 *   ### Skills<p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
