@@ -7,7 +7,6 @@ Game Devloper
 *   🌍  I'm based in New York
 *   🖥️  See my portfolio at [Work In Progress Portfolio](http:///notfennecks.wixsite.com/dylansantiago)
 *   ✉️  You can contact me at [notfennecks@gmail.com](mailto:notfennecks@gmail.com)
-*   <a href="Dylan-Santiago-FlowCV-Resume-20240126.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 *   🧠  I'm learning Advanced C++ and Unreal Engine 5
 *   ⚡  I love survival games.
 *   ### Skills<p align="left">
