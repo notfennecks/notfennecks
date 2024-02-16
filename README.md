@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Machine Learning, Advanced C++, and Unreal Engine.**
 
+- 💬 Ask me about **My eSports Career**
+
 - 👨‍💻 All of my projects are available at [https://notfennecks.wixsite.com/dylansantiago](https://notfennecks.wixsite.com/dylansantiago)
 
 - 📫 How to reach me **notfennecks@gmail.com**
