@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My Name is Dylan Santiago</h1>
 <h3 align="center">Game Developer / Teacher</h3>
 
-- 🔭 I’m currently working on [Crowd Simulation Optimization](https://github.com/notfennecks/MastersProject)
+- 🔭 Check out [Crowd Simulation Optimization](https://github.com/notfennecks/MastersProject)
 
 - 🌱 I’m currently learning **Machine Learning, Advanced C++, and Unreal Engine.**
 
