@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, My Name is Dylan Santiago</h1>
-<h3 align="center">Game Developer / Teacher</h3>
+<h3 align="center"> C++ Develeoper / AI Engineer </h3>
 
 - 🔭 Check out [Crowd Simulation Optimization](https://github.com/notfennecks/MastersProject)
 
-- 🌱 I’m currently learning **Machine Learning, Advanced C++, and Unreal Engine.**
+- 🌱 I’m currently learning **Machine Learning and Advanced C++**
 
 - 💬 Ask me about **My eSports Career**
 
@@ -12,8 +12,6 @@
 - 📫 How to reach me **notfennecks@gmail.com**
 
 - 📄  Resume [here](https://github.com/notfennecks/notfennecks/blob/main/Resume.pdf)
-
-- ⚡ Fun fact **I like foxes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
