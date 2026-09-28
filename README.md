@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **notfennecks@gmail.com**
 
-- 📄  Resume [here](https://github.com/notfennecks/notfennecks/blob/main/Resume.pdf)
+- 📄  Resume [here](https://github.com/notfennecks/notfennecks/blob/main/Resume9-28.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
