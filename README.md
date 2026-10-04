@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Name is Dylan Santiago</h1>
-<h3 align="center"> C++ Develeoper / AI Engineer </h3>
+<h3 align="center"> AI Software Engineer / Game Developer / Data Scientist </h3>
 
 - 🔭 Check out [Crowd Simulation Optimization](https://github.com/notfennecks/MastersProject)
 
