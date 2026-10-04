@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **My eSports Career**
 
-- 👨‍💻 All of my projects are available at [https://notfennecks.wixsite.com/dylansantiago](https://notfennecks.wixsite.com/dylansantiago)
+- 👨‍💻 All of my projects are available at [https://dylansantiago.dev](https://dylansantiago.dev/)
 
 - 📫 How to reach me **notfennecks@gmail.com**
 
